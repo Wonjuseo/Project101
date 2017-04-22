@@ -1,5 +1,6 @@
 import tensorflow as tf
 
+
 # Step 1
 # Data를 만들어 놓고 이를 가지고 linear regression을 할 것입니다.
 x_data = [1, 2, 3, 4, 5, 6, 7]
