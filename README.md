@@ -13,4 +13,5 @@ My email address: tjdnjswn22@postech.ac.kr
 Reference:
 
 https://github.com/golbin/TensorFlow-Tutorials
+
 https://hunkim.github.io/ml/
