@@ -8,7 +8,7 @@ Following the codes in here, you can make many useful models that might be used 
 
 When you find some errors in codes, please let me know to correct them.
 
-My email address: tjdnjswn22@postech.ac.kr
+My email address: tjdnjswn22@naver.com
 
 Reference:
 
