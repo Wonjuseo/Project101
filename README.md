@@ -15,3 +15,5 @@ Reference:
 https://github.com/golbin/TensorFlow-Tutorials
 
 https://hunkim.github.io/ml/
+
+https://github.com/chiphuyen
