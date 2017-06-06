@@ -19,3 +19,5 @@ https://hunkim.github.io/ml/
 https://github.com/chiphuyen
 
 https://wikidocs.net/43
+
+http://pythonstudy.xyz/Python/Applications
