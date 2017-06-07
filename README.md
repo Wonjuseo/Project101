@@ -12,12 +12,18 @@ My email address: tjdnjswn22@naver.com
 
 Reference:
 
+Deep learning
+
 https://github.com/golbin/TensorFlow-Tutorials
 
 https://hunkim.github.io/ml/
 
 https://github.com/chiphuyen
 
+Python
+
 https://wikidocs.net/43
 
 http://pythonstudy.xyz/Python/Applications
+
+https://www.slideshare.net/sk8erchoi/presentations
